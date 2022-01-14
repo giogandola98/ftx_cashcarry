@@ -1,2 +1,5 @@
 # ftx_cashcarry
-Ftx_cash_carry_calculator
+
+required python3 and ccxt module
+
+pip3 install ccxt 
